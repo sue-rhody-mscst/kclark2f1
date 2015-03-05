@@ -24,6 +24,27 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "kclark2f1", "http://localho
 		SlnRelativePath = "..\kclark2f1\"
 	EndProjectSection
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "kclark2f14", "http://localhost:56831", "{F77B84B5-35ED-4323-9138-4FE495944F75}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56831"
+		Debug.AspNetCompiler.PhysicalPath = "..\kclark2f14\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56831\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56831"
+		Release.AspNetCompiler.PhysicalPath = "..\kclark2f14\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56831\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\kclark2f14\"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +52,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{60D80DCE-72D2-481B-BFE6-94F225886995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{60D80DCE-72D2-481B-BFE6-94F225886995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77B84B5-35ED-4323-9138-4FE495944F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77B84B5-35ED-4323-9138-4FE495944F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
